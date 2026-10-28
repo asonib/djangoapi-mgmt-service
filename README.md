@@ -1,0 +1,1 @@
+# djangoapi-mgmt-service
